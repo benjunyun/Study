@@ -4,3 +4,5 @@ Creating a new branch is quick.
 Testing two branches in dev2.
 
 branches managing
+
+Testing stash.
